@@ -1,3 +1,2 @@
-# JS-Projects
-
-The JavaScript related projects I work in my free time.
+# Pomodoro Counter
+A simple Pomodoro counter.
